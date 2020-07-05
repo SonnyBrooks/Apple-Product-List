@@ -1,0 +1,387 @@
+{
+    "iPhone": {
+        "release-date": "9/12/2007",
+        "battery": {
+            "capacity": 1400,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "2.0 EDR"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "1.9 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": null,
+                "camera2": null
+            }
+        },
+        "cellRadio": "EDGE (2.5G)",
+        "colors": ["Gray"],
+        "cpu": {
+            "coreDesign": "ARM1176 x 1",
+            "modelNumber": "S5L8900",
+            "cpuSpeed": 400.0,
+            "cpuSpeedUnit": "MHz",
+            "instructionSet": "ARMv6"
+        },
+        "firmware": {
+            "shippedFirmware": "1.0 (1A543a)",
+            "lastSupportedFirmware": "3.1.3 (7E18)"
+        },
+        "internalName": "iPhone1,1",
+        "ram": 128,
+        "ramUnit": "MB",
+        "storageOptions": [
+            4, 
+            8, 
+            16
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11b/g"
+    },
+    "iPhone 3G": {
+        "release-date": "6/29/2008",
+        "battery": {
+            "capacity": 1150,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "2.0 EDR"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "1.9 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": null,
+                "camera2": null
+            }
+        },
+        "cellRadio": "HSDPA (3G)",
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "cpu": {
+            "coreDesign": "ARM1176 x 1",
+            "modelNumber": "S5L8900",
+            "cpuSpeed": 412.0,
+            "cpuSpeedUnit": "MHz",
+            "instructionSet": "ARMv6"
+        },
+        "firmware": {
+            "shippedFirmware": "2.0 (5A345)",
+            "lastSupportedFirmware": "4.2.1 (8C148)"
+        },
+        "internalName": "iPhone1,2",
+        "ram": 128,
+        "ramUnit": "MB",
+        "storageOptions": [
+            8,
+            16
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11b/g"
+    },
+    "iPhone 3GS": {
+        "release-date": "6/19/2009",
+        "battery": {
+            "capacity": 1219,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "2.1 EDR"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "3.1 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": null,
+                "camera2": null
+            }
+        },
+        "cellRadio": "HSDPA (3G)",
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "cpu": {
+            "coreDesign": "ARM Cortex-A8 x 1",
+            "modelNumber": "S5L8920",
+            "cpuSpeed": 620.0,
+            "cpuSpeedUnit": "MHz",
+            "instructionSet": "ARMv7"
+        },
+        "firmware": {
+            "shippedFirmware": "3.0 (7A341)",
+            "lastSupportedFirmware": "6.1.6 (10B500)"
+        },
+        "internalName": "iPhone2,1",
+        "ram": 256,
+        "ramUnit": "MB",
+        "storageOptions": [
+            8,
+            16,
+            32
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11b/g/n"
+    },
+    "iPhone 4": {
+        "release-date": "6/21/2010",
+        "battery": {
+            "capacity": 1419,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "2.1 EDR"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "5.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "0.3 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "HSDPA+HSUPA (3G)",
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "cpu": {
+            "coreDesign": "ARM Cortex-A8 x 1",
+            "modelNumber": "A4",
+            "cpuSpeed": 800.0,
+            "cpuSpeedUnit": "MHz",
+            "instructionSet": "ARMv7"
+        },
+        "firmware": {
+            "shippedFirmware": "4.0 (8A293)",
+            "lastSupportedFirmware": "7.1.2 (11D257)"
+        },
+        "internalName": "iPhone3,1",
+        "ram": 512,
+        "ramUnit": "MB",
+        "storageOptions": [
+            8,
+            16,
+            32
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11b/g"
+    },
+    "iPhone 4S": {
+        "release-date": "10/14/2011",
+        "battery": {
+            "capacity": 1432,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "0.3 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "HSDPA+HSUPA (3G)",
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "cpu": {
+            "coreDesign": "ARM Cortex-A9 x 1",
+            "modelNumber": "A5",
+            "cpuSpeed": 800.0,
+            "cpuSpeedUnit": "MHz",
+            "instructionSet": "ARMv7"
+        },
+        "firmware": {
+            "shippedFirmware": "5.0 (8A293)",
+            "lastSupportedFirmware": "9.3.6 (11D257)"
+        },
+        "internalName": "iPhone4,1",
+        "ram": 512,
+        "ramUnit": "MB",
+        "storageOptions": [
+            8,
+            16,
+            32,
+            64
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11b/g/n"
+    },
+    "iPhone 5": {
+        "release-date": "9/21/2012",
+        "battery": {
+            "capacity": 1434,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Black",
+            "White"
+        ],
+        "cpu": {
+            "coreDesign": "Swift x 2",
+            "modelNumber": "A6",
+            "cpuSpeed": 1.2,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv7s"
+        },
+        "firmware": {
+            "shippedFirmware": "6.0 (10A405)",
+            "lastSupportedFirmware": "10.3.4 (14G61)"
+        },
+        "internalName": "iPhone5,1",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            32,
+            64
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n"
+    },
+    "iPhone 5C": {
+        "release-date": "9/10/2013",
+        "battery": {
+            "capacity": 1508,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Blue",
+            "White",
+            "Green",
+            "Pink",
+            "Yellow"
+        ],
+        "cpu": {
+            "coreDesign": "Swift x 2",
+            "modelNumber": "A6",
+            "cpuSpeed": 1.2,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv7s"
+        },
+        "firmware": {
+            "shippedFirmware": "7.0 (11A466)",
+            "lastSupportedFirmware": "10.3.3 (14G60)"
+        },
+        "internalName": "iPhone5,3",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            32,
+            64
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n"
+    },
+    "iPhone 5S": {
+        "release-date": "9/10/2013",
+        "battery": {
+            "capacity": 1508,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Silver",
+            "Space Gray",
+        ],
+        "cpu": {
+            "coreDesign": "Apple Cyclone x 2",
+            "modelNumber": "A7",
+            "cpuSpeed": 1.3,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "7.0 (11A466)",
+            "lastSupportedFirmware": "12.4.7 (16G192)"
+        },
+        "internalName": "iPhone6,1",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            32,
+            64
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n"
+    }
+}
