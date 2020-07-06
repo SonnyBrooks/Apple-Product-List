@@ -360,7 +360,7 @@
         "colors": [
             "Gold",
             "Silver",
-            "Space Gray",
+            "Space Gray"
         ],
         "cpu": {
             "coreDesign": "Apple Cyclone x 2",
@@ -383,5 +383,902 @@
         ],
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n"
-    }
+    },
+    "iPhone 6": {
+        "release-date": "9/20/2014",
+        "battery": {
+            "capacity": 1809,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Typhoon x 2",
+            "modelNumber": "A8",
+            "cpuSpeed": 1.38,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "8.0 (12A365)",
+            "lastSupportedFirmware": "12.4.7 (16G192)"
+        },
+        "internalName": "iPhone7,1",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac"
+    },
+"iPhone 6": {
+        "release-date": "9/20/2014",
+        "battery": {
+            "capacity": 1809,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Typhoon x 2",
+            "modelNumber": "A8",
+            "cpuSpeed": 1.38,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "8.0 (12A365)",
+            "lastSupportedFirmware": "12.4.7 (16G192)"
+        },
+        "internalName": "iPhone7,1",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac"
+    },
+    "iPhone 6 Plus": {
+        "release-date": "9/20/2015",
+        "battery": {
+            "capacity": 2906,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "8.0 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Typhoon x 2",
+            "modelNumber": "A8",
+            "cpuSpeed": 1.38,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "8.0 (12A365)",
+            "lastSupportedFirmware": "12.4.7 (16G192)"
+        },
+        "internalName": "iPhone7,1",
+        "ram": 1,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac"
+    },
+    "iPhone 6s": {
+        "release-date": "9/20/2014",
+        "battery": {
+            "capacity": 1715,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.2"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "5 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Rose Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Twister x 2",
+            "modelNumber": "A9",
+            "cpuSpeed": 1.85,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "9.0 (13A342)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone8,1",
+        "ram": 2,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone 6s Plus": {
+        "release-date": "9/20/2015",
+        "battery": {
+            "capacity": 2750,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.2"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "5 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Rose Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Twister x 2",
+            "modelNumber": "A9",
+            "cpuSpeed": 1.85,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "9.0 (13A342)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone8,1",
+        "ram": 2,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone SE (1st Generation)": {
+        "release-date": "3/31/2016",
+        "battery": {
+            "capacity": 1624,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.2"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "1.2 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Rose Gold",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Twister x 2",
+            "modelNumber": "A9",
+            "cpuSpeed": 1.85,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "9.3 (13A342)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone8,4",
+        "ram": 2,
+        "ramUnit": "GB",
+        "storageOptions": [
+            16,
+            32,
+            64,
+            128
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac"
+    },
+    "iPhone 7": {
+        "release-date": "9/17/2016",
+        "battery": {
+            "capacity": 1960,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.2"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Rose Gold",
+            "Silver",
+            "Black",
+            "Jet Black",
+            "PRODUCT(RED)"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Fusion x 2",
+            "modelNumber": "A10",
+            "cpuSpeed": 2.34,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "10.0 (14A346)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone9,1",
+        "ram": 2,
+        "ramUnit": "GB",
+        "storageOptions": [
+            32,
+            128,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone 7 Plus": {
+        "release-date": "9/16/2016",
+        "battery": {
+            "capacity": 2900,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "4.2"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": "12.2 megapixels",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "5 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Rose Gold",
+            "Silver",
+            "Black",
+            "Jet Black",
+            "PRODUCT(RED)"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Fusion x 2",
+            "modelNumber": "A10",
+            "cpuSpeed": 2.34,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "10.0 (14A346)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone9,2",
+        "ram": 3,
+        "ramUnit": "GB",
+        "storageOptions": [
+            32,
+            128,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone 8": {
+        "release-date": "9/22/2017",
+        "battery": {
+            "capacity": 1821,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "PRODUCT(RED)",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Monsoon x 2 and Apple Mistral x 4",
+            "modelNumber": "A11",
+            "cpuSpeed": 2.39,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "11.0 (15A372)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone10,1",
+        "ram": 2,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone 8 Plus": {
+        "release-date": "9/22/2017",
+        "battery": {
+            "capacity": 2691,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": "12.2 megapixels",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "PRODUCT(RED)",
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Monsoon x 2 and Apple Mistral x 4",
+            "modelNumber": "A11",
+            "cpuSpeed": 2.39,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "11.0 (15A372)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone10,2",
+        "ram": 3,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11a/b/g/n/ac with MIMO"
+    },
+    "iPhone X": {
+        "release-date": "11/03/2017",
+        "battery": {
+            "capacity": 2716,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": "12.2 megapixels",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Silver",
+            "Space Gray"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Monsoon x 2 and Apple Mistral x 4",
+            "modelNumber": "A11",
+            "cpuSpeed": 2.39,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8"
+        },
+        "firmware": {
+            "shippedFirmware": "11.0.1 (15A8391)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone10,3",
+        "ram": 3,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ac with MIMO"
+    },
+    "iPhone XR": {
+        "release-date": "10/26/2018",
+        "battery": {
+            "capacity": 2942,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "PRODUCT(RED)",
+            "Yellow",
+            "White",
+            "Coral",
+            "Black",
+            "Blue"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Vortex x 2 and Apple Tempest x 4",
+            "modelNumber": "A12 Bionic",
+            "cpuSpeed": 2.49,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.3"
+        },
+        "firmware": {
+            "shippedFirmware": "12.0 (16A366)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone11,8",
+        "ram": 3,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            128,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ac with MIMO"
+    },
+    "iPhone XS": {
+        "release-date": "09/21/2018",
+        "battery": {
+            "capacity": 2658,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": "12.2 megapixels",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Space Gray",
+            "Silver"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Vortex x 2 and Apple Tempest x 4",
+            "modelNumber": "A12 Bionic",
+            "cpuSpeed": 2.49,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.3"
+        },
+        "firmware": {
+            "shippedFirmware": "12.0 (16A366)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone11,2",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256,
+            512
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ac with MIMO"
+    },
+    "iPhone XS Max": {
+        "release-date": "09/21/2018",
+        "battery": {
+            "capacity": 3174,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.2 megapixels",
+                "camera2": "12.2 megapixels",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "LTE",
+        "colors": [
+            "Gold",
+            "Space Gray",
+            "Silver"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Vortex x 2 and Apple Tempest x 4",
+            "modelNumber": "A12 Bionic",
+            "cpuSpeed": 2.49,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.3"
+        },
+        "firmware": {
+            "shippedFirmware": "12.0 (16A366)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone11,4",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256,
+            512
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ac with MIMO"
+    },
+    "iPhone 11": {
+        "release-date": "09/20/2019",
+        "battery": {
+            "capacity": 3110,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.0 megapixels Wide",
+                "camera2": "12.0 megapixels Ultra Wide",
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "12.0 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "Gigabit-class LTE with 2x2 MIMO and LAA",
+        "colors": [
+            "Yellow",
+            "Green",
+            "Black",
+            "White",
+            "PRODUCT(RED)"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Lightning x 2 and Apple Thunder x 4",
+            "modelNumber": "A13 Bionic",
+            "cpuSpeed": 2.65,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.4-A"
+        },
+        "firmware": {
+            "shippedFirmware": "13.0 (17A577)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone12,1",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            128,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
+    },
+    "iPhone 11 Pro": {
+        "release-date": "09/20/2019",
+        "battery": {
+            "capacity": 3046,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.0 megapixels Wide",
+                "camera2": "12.0 megapixels Ultra Wide",
+                "camera3": "12.0 megapixels Telephoto",
+                "camera4": null
+            },
+            "front": {
+                "camera1": "12.0 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "Gigabit-class LTE with 4x4 MIMO and LAA",
+        "colors": [
+            "Midnight Green",
+            "Space Gray",
+            "Silver",
+            "Gold"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Lightning x 2 and Apple Thunder x 4",
+            "modelNumber": "A13 Bionic",
+            "cpuSpeed": 2.65,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.4-A"
+        },
+        "firmware": {
+            "shippedFirmware": "13.0 (17A577)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone12,3",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256,
+            512
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
+    },
+    "iPhone 11 Pro Max": {
+        "release-date": "09/20/2019",
+        "battery": {
+            "capacity": 3969,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.0 megapixels Wide",
+                "camera2": "12.0 megapixels Ultra Wide",
+                "camera3": "12.0 megapixels Telephoto",
+                "camera4": null
+            },
+            "front": {
+                "camera1": "12.0 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "Gigabit-class LTE with 4x4 MIMO and LAA",
+        "colors": [
+            "Midnight Green",
+            "Space Gray",
+            "Silver",
+            "Gold"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Lightning x 2 and Apple Thunder x 4",
+            "modelNumber": "A13 Bionic",
+            "cpuSpeed": 2.65,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.4-A"
+        },
+        "firmware": {
+            "shippedFirmware": "13.0 (17A577)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone12,5",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            256,
+            512
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
+    },
+    "iPhone SE (2nd Generation)": {
+        "release-date": "04/24/2020",
+        "battery": {
+            "capacity": 1821,
+            "capacityUnit": "mAh"
+        },
+        "bluetooth": {
+            "version": "5.0"
+        },
+        "camera": {
+            "rear": {
+                "camera1": "12.0 megapixels Wide",
+                "camera2": null,
+                "camera3": null,
+                "camera4": null
+            },
+            "front": {
+                "camera1": "7 megapixels",
+                "camera2": null
+            }
+        },
+        "cellRadio": "Gigabit-class LTE with 2x2 MIMO and LAA",
+        "colors": [
+            "Black",
+            "White",
+            "PRODUCT(RED)"
+        ],
+        "cpu": {
+            "coreDesign": "Apple Lightning x 2 and Apple Thunder x 4",
+            "modelNumber": "A13 Bionic",
+            "cpuSpeed": 2.65,
+            "cpuSpeedUnit": "GHz",
+            "instructionSet": "ARMv8.4-A"
+        },
+        "firmware": {
+            "shippedFirmware": "13.4 (17E8255)",
+            "lastSupportedFirmware": "13.5.1 (17F80)"
+        },
+        "internalName": "iPhone12,8",
+        "ram": 4,
+        "ramUnit": "GB",
+        "storageOptions": [
+            64,
+            128,
+            256
+        ],
+        "storageOptionsUnit": "GB",
+        "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
+    },
 }
