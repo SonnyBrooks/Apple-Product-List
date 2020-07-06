@@ -284,7 +284,7 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n"
     },
-    "iPhone 5C": {
+    "iPhone 5c": {
         "release-date": "9/10/2013",
         "battery": {
             "capacity": 1508,
@@ -335,7 +335,7 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n"
     },
-    "iPhone 5S": {
+    "iPhone 5s": {
         "release-date": "9/10/2013",
         "battery": {
             "capacity": 1508,
@@ -385,55 +385,6 @@
         "wifiRadio": "802.11a/b/g/n"
     },
     "iPhone 6": {
-        "release-date": "9/20/2014",
-        "battery": {
-            "capacity": 1809,
-            "capacityUnit": "mAh"
-        },
-        "bluetooth": {
-            "version": "4.0"
-        },
-        "camera": {
-            "rear": {
-                "camera1": "8.0 megapixels",
-                "camera2": null,
-                "camera3": null,
-                "camera4": null
-            },
-            "front": {
-                "camera1": "1.2 megapixels",
-                "camera2": null
-            }
-        },
-        "cellRadio": "LTE",
-        "colors": [
-            "Gold",
-            "Silver",
-            "Space Gray"
-        ],
-        "cpu": {
-            "coreDesign": "Apple Typhoon x 2",
-            "modelNumber": "A8",
-            "cpuSpeed": 1.38,
-            "cpuSpeedUnit": "GHz",
-            "instructionSet": "ARMv8"
-        },
-        "firmware": {
-            "shippedFirmware": "8.0 (12A365)",
-            "lastSupportedFirmware": "12.4.7 (16G192)"
-        },
-        "internalName": "iPhone7,1",
-        "ram": 1,
-        "ramUnit": "GB",
-        "storageOptions": [
-            16,
-            64,
-            128
-        ],
-        "storageOptionsUnit": "GB",
-        "wifiRadio": "802.11a/b/g/n/ac"
-    },
-"iPhone 6": {
         "release-date": "9/20/2014",
         "battery": {
             "capacity": 1809,
@@ -1280,5 +1231,5 @@
         ],
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
-    },
+    }
 }
