@@ -1,7 +1,10 @@
 {
     "iPhone": {
         "releaseDate": "9/12/2007",
-        "launchPrices": [499, 599],
+        "launchPrices": [
+            499, 
+            599
+        ],
         "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1400,
