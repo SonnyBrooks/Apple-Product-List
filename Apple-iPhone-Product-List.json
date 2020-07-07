@@ -46,7 +46,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11b/g",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 3G": {
         "releaseDate": "6/29/2008",
@@ -100,7 +101,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11b/g",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 3GS": {
         "releaseDate": "6/19/2009",
@@ -156,7 +158,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11b/g/n",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 4": {
         "releaseDate": "6/21/2010",
@@ -210,7 +213,10 @@
             32
         ],
         "storageOptionsUnit": "GB",
-        "wifiRadio": "802.11b/g"
+        "wifiRadio": "802.11b/g",
+        "hasTouchId": false,
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 4S": {
         "releaseDate": "10/14/2011",
@@ -268,7 +274,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11b/g/n",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 5": {
         "releaseDate": "9/21/2012",
@@ -324,7 +331,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 5c": {
         "releaseDate": "9/10/2013",
@@ -383,7 +391,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n",
         "hasTouchId": false,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 5s": {
         "releaseDate": "9/10/2013",
@@ -440,7 +449,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 6": {
         "releaseDate": "9/20/2014",
@@ -497,7 +507,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 6 Plus": {
         "releaseDate": "9/20/2015",
@@ -554,7 +565,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 6s": {
         "releaseDate": "9/20/2014",
@@ -612,7 +624,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 6s Plus": {
         "releaseDate": "9/20/2015",
@@ -670,7 +683,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone SE (1st Generation)": {
         "releaseDate": "3/31/2016",
@@ -730,7 +744,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": null
     },
     "iPhone 7": {
         "releaseDate": "9/17/2016",
@@ -790,7 +805,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone 7 Plus": {
         "releaseDate": "9/16/2016",
@@ -850,7 +866,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone 8": {
         "releaseDate": "9/22/2017",
@@ -907,7 +924,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone 8 Plus": {
         "releaseDate": "9/22/2017",
@@ -964,7 +982,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11a/b/g/n/ac with MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone X": {
         "releaseDate": "11/03/2017",
@@ -1018,7 +1037,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ac with MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone XR": {
         "releaseDate": "10/26/2018",
@@ -1078,7 +1098,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ac with MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP67"
     },
     "iPhone XS": {
         "releaseDate": "09/21/2018",
@@ -1135,7 +1156,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ac with MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP68"
     },
     "iPhone XS Max": {
         "releaseDate": "09/21/2018",
@@ -1192,7 +1214,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ac with MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP68"
     },
     "iPhone 11": {
         "releaseDate": "09/20/2019",
@@ -1251,7 +1274,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP68"
     },
     "iPhone 11 Pro": {
         "releaseDate": "09/20/2019",
@@ -1309,7 +1333,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP68"
     },
     "iPhone 11 Pro Max": {
         "releaseDate": "09/20/2019",
@@ -1367,7 +1392,8 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO",
         "hasTouchId": false,
-        "hasFaceId": true
+        "hasFaceId": true,
+        "ingressProtectionRating": "IP68"
     },
     "iPhone SE (2nd Generation)": {
         "releaseDate": "04/24/2020",
@@ -1424,6 +1450,7 @@
         "storageOptionsUnit": "GB",
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO",
         "hasTouchId": true,
-        "hasFaceId": false
+        "hasFaceId": false,
+        "ingressProtectionRating": "IP68"
     }
 }
