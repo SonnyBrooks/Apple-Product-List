@@ -1,6 +1,8 @@
 {
     "iPhone": {
-        "release-date": "9/12/2007",
+        "releaseDate": "9/12/2007",
+        "launchPrices": [499, 599],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1400,
             "capacityUnit": "mAh"
@@ -45,7 +47,12 @@
         "wifiRadio": "802.11b/g"
     },
     "iPhone 3G": {
-        "release-date": "6/29/2008",
+        "releaseDate": "6/29/2008",
+        "launchPrices": [
+            499,
+            599
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1150,
             "capacityUnit": "mAh"
@@ -92,7 +99,13 @@
         "wifiRadio": "802.11b/g"
     },
     "iPhone 3GS": {
-        "release-date": "6/19/2009",
+        "releaseDate": "6/19/2009",
+        "launchPrices": [
+            499,
+            599,
+            699
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1219,
             "capacityUnit": "mAh"
@@ -140,7 +153,13 @@
         "wifiRadio": "802.11b/g/n"
     },
     "iPhone 4": {
-        "release-date": "6/21/2010",
+        "releaseDate": "6/21/2010",
+        "launchPrices": [
+            399,
+            499,
+            599
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1419,
             "capacityUnit": "mAh"
@@ -188,7 +207,14 @@
         "wifiRadio": "802.11b/g"
     },
     "iPhone 4S": {
-        "release-date": "10/14/2011",
+        "releaseDate": "10/14/2011",
+        "launchPrices": [
+            549,
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1432,
             "capacityUnit": "mAh"
@@ -237,7 +263,13 @@
         "wifiRadio": "802.11b/g/n"
     },
     "iPhone 5": {
-        "release-date": "9/21/2012",
+        "releaseDate": "9/21/2012",
+        "launchPrices": [
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1434,
             "capacityUnit": "mAh"
@@ -285,7 +317,13 @@
         "wifiRadio": "802.11a/b/g/n"
     },
     "iPhone 5c": {
-        "release-date": "9/10/2013",
+        "releaseDate": "9/10/2013",
+        "launchPrices": [
+            549,
+            649,
+            749
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1508,
             "capacityUnit": "mAh"
@@ -336,7 +374,13 @@
         "wifiRadio": "802.11a/b/g/n"
     },
     "iPhone 5s": {
-        "release-date": "9/10/2013",
+        "releaseDate": "9/10/2013",
+        "launchPrices": [
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1508,
             "capacityUnit": "mAh"
@@ -385,7 +429,13 @@
         "wifiRadio": "802.11a/b/g/n"
     },
     "iPhone 6": {
-        "release-date": "9/20/2014",
+        "releaseDate": "9/20/2014",
+        "launchPrices": [
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1809,
             "capacityUnit": "mAh"
@@ -434,7 +484,13 @@
         "wifiRadio": "802.11a/b/g/n/ac"
     },
     "iPhone 6 Plus": {
-        "release-date": "9/20/2015",
+        "releaseDate": "9/20/2015",
+        "launchPrices": [
+            749,
+            849,
+            949
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2906,
             "capacityUnit": "mAh"
@@ -483,7 +539,13 @@
         "wifiRadio": "802.11a/b/g/n/ac"
     },
     "iPhone 6s": {
-        "release-date": "9/20/2014",
+        "releaseDate": "9/20/2014",
+        "launchPrices": [
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1715,
             "capacityUnit": "mAh"
@@ -533,7 +595,13 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone 6s Plus": {
-        "release-date": "9/20/2015",
+        "releaseDate": "9/20/2015",
+        "launchPrices": [
+            749,
+            849,
+            949
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2750,
             "capacityUnit": "mAh"
@@ -583,7 +651,14 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone SE (1st Generation)": {
-        "release-date": "3/31/2016",
+        "releaseDate": "3/31/2016",
+        "launchPrices": [
+            399,
+            399,
+            499,
+            499
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1624,
             "capacityUnit": "mAh"
@@ -634,7 +709,13 @@
         "wifiRadio": "802.11a/b/g/n/ac"
     },
     "iPhone 7": {
-        "release-date": "9/17/2016",
+        "releaseDate": "9/17/2016",
+        "launchPrices": [
+            649,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1960,
             "capacityUnit": "mAh"
@@ -686,7 +767,13 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone 7 Plus": {
-        "release-date": "9/16/2016",
+        "releaseDate": "9/16/2016",
+        "launchPrices": [
+            769,
+            869,
+            969
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2900,
             "capacityUnit": "mAh"
@@ -738,7 +825,13 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone 8": {
-        "release-date": "9/22/2017",
+        "releaseDate": "9/22/2017",
+        "launchPrices": [
+            699,
+            799,
+            899
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1821,
             "capacityUnit": "mAh"
@@ -787,7 +880,13 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone 8 Plus": {
-        "release-date": "9/22/2017",
+        "releaseDate": "9/22/2017",
+        "launchPrices": [
+            799,
+            899,
+            999
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2691,
             "capacityUnit": "mAh"
@@ -836,7 +935,12 @@
         "wifiRadio": "802.11a/b/g/n/ac with MIMO"
     },
     "iPhone X": {
-        "release-date": "11/03/2017",
+        "releaseDate": "11/03/2017",
+        "launchPrices": [
+            999,
+            1149
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2716,
             "capacityUnit": "mAh"
@@ -883,7 +987,13 @@
         "wifiRadio": "802.11ac with MIMO"
     },
     "iPhone XR": {
-        "release-date": "10/26/2018",
+        "releaseDate": "10/26/2018",
+        "launchPrices": [
+            749,
+            799,
+            899
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2942,
             "capacityUnit": "mAh"
@@ -935,7 +1045,13 @@
         "wifiRadio": "802.11ac with MIMO"
     },
     "iPhone XS": {
-        "release-date": "09/21/2018",
+        "releaseDate": "09/21/2018",
+        "launchPrices": [
+            999,
+            1149,
+            1349
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 2658,
             "capacityUnit": "mAh"
@@ -984,7 +1100,13 @@
         "wifiRadio": "802.11ac with MIMO"
     },
     "iPhone XS Max": {
-        "release-date": "09/21/2018",
+        "releaseDate": "09/21/2018",
+        "launchPrices": [
+            1099,
+            1249,
+            1449
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 3174,
             "capacityUnit": "mAh"
@@ -1033,7 +1155,13 @@
         "wifiRadio": "802.11ac with MIMO"
     },
     "iPhone 11": {
-        "release-date": "09/20/2019",
+        "releaseDate": "09/20/2019",
+        "launchPrices": [
+            699,
+            749,
+            849
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 3110,
             "capacityUnit": "mAh"
@@ -1084,7 +1212,13 @@
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
     },
     "iPhone 11 Pro": {
-        "release-date": "09/20/2019",
+        "releaseDate": "09/20/2019",
+        "launchPrices": [
+            1099,
+            1249,
+            1449
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 3046,
             "capacityUnit": "mAh"
@@ -1134,7 +1268,13 @@
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
     },
     "iPhone 11 Pro Max": {
-        "release-date": "09/20/2019",
+        "releaseDate": "09/20/2019",
+        "launchPrices": [
+            1099,
+            1249,
+            1449
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 3969,
             "capacityUnit": "mAh"
@@ -1184,7 +1324,13 @@
         "wifiRadio": "802.11ax (Wi-Fi 6) with 2x2 MIMO"
     },
     "iPhone SE (2nd Generation)": {
-        "release-date": "04/24/2020",
+        "releaseDate": "04/24/2020",
+        "launchPrices": [
+            399,
+            449,
+            549
+        ],
+        "launchPricesCurrency": "USD",
         "battery": {
             "capacity": 1821,
             "capacityUnit": "mAh"
